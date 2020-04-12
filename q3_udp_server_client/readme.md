@@ -45,3 +45,7 @@
 	- Enter any message in the client terminal
 	- That gets printed in the server terminal
 	- Enter `*` in the client terminal to stop the conversation
+
+---
+### Sample Output
+![](https://github.com/bmsohwinc/cn_assignment/blob/master/q3_udp_server_client/q3.png)
