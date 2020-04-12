@@ -60,3 +60,7 @@
 		- Takes in input from user on server side (server terminal) as {name : number} data to be input in the local database
 		- Rejects invalid queries from the client
 		- Enter `-1 -1` in the server terminal to stop the conversation and the thread execution
+
+---
+### Sample Output
+![](https://github.com/bmsohwinc/cn_assignment/blob/master/q4_phone_dir/q4.png)
