@@ -46,3 +46,8 @@
 	- That gets printed in the server terminal
 	- Server automatically sends back an ACK, which is displayed in the client terminal
 	- Enter `*` in the client terminal to stop the conversation
+
+---
+
+### Sample Output
+![](https://github.com/bmsohwinc/cn_assignment/blob/master/q2_tcp_server_client/q2.png)
