@@ -45,3 +45,6 @@
 	- `$ javac dayTimeClient.java`
 	- `$ java dayTimeClient`
 ---
+
+### Sample Output
+![](https://github.com/bmsohwinc/cn_assignment/blob/master/q1_daytime_client/q1.png)
